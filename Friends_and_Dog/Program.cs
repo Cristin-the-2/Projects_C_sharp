@@ -62,7 +62,6 @@ Console.WriteLine($"Собака за это время пробежала ме�
 Console.WriteLine();
 Console.ResetColor();
 
-
 string GetWordEnd(int integer)
 {
     int lastInt = Convert.ToInt32(integer
@@ -105,7 +104,7 @@ string GetCountEnd(int integer)
                                   .ToString());
     if (
             (integer >= 2 && integer <= 4) ||
-            (lastInt >= 2 && lastInt <= 4 && integer >20)
+            (lastInt >= 2 && lastInt <= 4 && integer > 20)
         )
         return "а";
 
@@ -130,9 +129,9 @@ string GetMinuteEnd(int integer)
             (integer == 1) ||
             (lastInt == 1 && integer > 20)
             )
-            return "а";
+        return "а";
     else
-    return string.Empty;
+        return string.Empty;
 
 }
 
@@ -153,8 +152,8 @@ string GetDaysEnd(int integer)
             (integer == 1) ||
             (lastInt == 1 && integer > 20)
             )
-            return "день";
+        return "день";
     else
-    return "дней";
+        return "дней";
 
 }
