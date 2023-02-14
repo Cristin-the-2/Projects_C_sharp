@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.AssemblyInfo.cs
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\bin\Debug\net6.0\Get_third_number.exe
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\bin\Debug\net6.0\Get_third_number.deps.json
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\bin\Debug\net6.0\Get_third_number.runtimeconfig.json
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\bin\Debug\net6.0\Get_third_number.dll
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\bin\Debug\net6.0\Get_third_number.pdb
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.dll
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\refint\Get_third_number.dll
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.pdb
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\Get_third_number.genruntimeconfig.cache
+C:\Users\User\Desktop\Cristin_C#\Projects_C_sharp\Get_third_number\obj\Debug\net6.0\ref\Get_third_number.dll
