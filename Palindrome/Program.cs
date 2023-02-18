@@ -38,7 +38,6 @@ for(int i = 0; i <= (arrN.Length / 2); i++)
     }
     else
     {
-        result = false;
         break;
     }
 }
