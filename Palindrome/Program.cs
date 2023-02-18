@@ -47,7 +47,7 @@ if(result == true)
 {
     Console.WriteLine("Число является палиндромом.");
 }
-else if(result == false)
+else
 {
     Console.WriteLine("Число не является палиндромом.");
 }
