@@ -3,6 +3,6 @@
 
 Console.Write("Введите число: ");
 int N = Math.Abs(Convert.ToInt32(Console.ReadLine()));
-string G = new string ('o', N);
+string O = new string ('o', N);
 
-Console.WriteLine($"G{G}gle");
+Console.WriteLine($"G{O}gle");
