@@ -1,7 +1,7 @@
 ﻿// Получить третью цифру любого числа
 
 Console.Write("Введите число: ");
-string number = Console.ReadLine();
+string? number = Console.ReadLine();
 char[] arrnumber = number.ToCharArray();
 
 if (arrnumber.Length < 3)
