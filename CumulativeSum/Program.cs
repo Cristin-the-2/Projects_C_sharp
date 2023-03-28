@@ -2,9 +2,9 @@
 // в котором каждое число — это число из исходного массива 
 // + сумма всех предыдущих чисел из того же массива.
 
-int[] AskArr()
+int[] AskArr(string text)
 {
-    Console.Write("Введите массив через пробел: ");
+    Console.Write(text);
     string? str = Console.ReadLine();
     int[] array = str.Split(' ').Select(s => Int32.Parse(s)).ToArray();
     return array;
@@ -15,7 +15,7 @@ void PrintArr(int[] A)
     Console.WriteLine("[" + string.Join(",", A) + "]");
 }
 
-int[] arr = AskArr();
+int[] arr = AskArr("Введите массив через пробел: ");
 PrintArr(arr);
 
 int sum = 0;
