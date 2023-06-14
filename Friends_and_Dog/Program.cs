@@ -9,7 +9,8 @@ double TotalTime = 0;
 double MinuteTime = 0;
 double Days = 0;
 
-Console.Clear();
+
+
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("Дано: ");
 Console.WriteLine();
